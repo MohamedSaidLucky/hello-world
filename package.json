@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "this is the first git \r apllication i have ever had",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedSaidLucky/hello-world.git"
+  },
+  "author": "Mohamed Said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedSaidLucky/hello-world/issues"
+  },
+  "homepage": "https://github.com/MohamedSaidLucky/hello-world#readme"
+}
